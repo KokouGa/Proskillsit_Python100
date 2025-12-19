@@ -18,3 +18,5 @@ number2 = int(input("Entrez le deuxième nombre: "))
 print("Le premier nombre est:", number1)
 print("Le deuxième nombre est:", number2)
 print(number1 + number2)  # Ceci concatène les deux entrées comme des chaînes de caractères
+
+ma_liste = [1, 19, 7, 9, 55, 3]
