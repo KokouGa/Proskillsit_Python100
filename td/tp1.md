@@ -1,13 +1,13 @@
-# 🧩 Mini‑Projet — Assistant Météo Intelligent (Challenge)
+#  Mini‑Projet — Assistant Météo Intelligent 
 
-## 🎯 Objectif
+##  Objectif
 Créer un programme Python qui analyse une température saisie par l’utilisateur, la convertit dans l’autre unité et affiche un rapport clair avec une interprétation météo.
 
 Ce projet est **strictement aligné avec le cours** : aucune notion non vue (pas de fonctions, pas de boucles, pas de try/except).
 
 ---
 
-## 📚 Notions utilisées
+##  Notions utilisées
 - `input()`
 - chaînes de caractères (`strip`, `replace`, slicing)
 - conversion de type (`float`)
@@ -17,7 +17,7 @@ Ce projet est **strictement aligné avec le cours** : aucune notion non vue (pas
 
 ---
 
-## 📝 Consignes
+##  Consignes
 
 ### 1) Saisie utilisateur
 Le programme demande à l’utilisateur une température au format :
@@ -96,7 +96,7 @@ Température corporelle : plus basse
 
 ---
 
-## 🧮 Évaluation (suggestion /20)
+##  Évaluation (suggestion /20)
 - Analyse et validation de l’entrée : 5 pts
 - Conversion correcte : 4 pts
 - Interprétation météo : 4 pts
@@ -107,6 +107,3 @@ Température corporelle : plus basse
 
 ---
 
-## ✅ Remarque pédagogique
-Ce projet est volontairement exigeant sur le raisonnement, mais respecte totalement le niveau du cours.  
-Il constitue un excellent **mini‑projet de fin de chapitre**.
