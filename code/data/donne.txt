@@ -1,0 +1,26 @@
+# nom prénom age
+Hugo Victor 70
+Kessel Joseph 90
+Woolf Virginia 50
+Calvino Italo 78
+Roger Hel 50
+Lionel Joseph 80
+Vasco Yves 56
+Gabriel Rayl 87
+Camus Albert 46
+Sartre Jean 74
+Zola Emile 62
+Balzac Honore 55
+Dumas Alexandre 68
+Moliere JeanBaptiste 51
+Flaubert Gustave 58a
+Proust Marcel 51
+Orwell George 46
+Kafka Franz 41
+Hemingway Ernest 61
+Neruda Pablo 69
+Tolstoi Leon 82
+Dostoevski Fedor 59
+Cervantes Miguel 68
+Shakespeare William 52
+Voltaire Francois 83
