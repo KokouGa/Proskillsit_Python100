@@ -14,7 +14,7 @@ try:
         print(f"Email: {user['email']}")
         print(f"Ville: {user['address']['city']}")
         print()
-        
+
 except requests.exceptions.Timeout:
     print("Erreur : La requete a expire")
 except requests.exceptions.ConnectionError:

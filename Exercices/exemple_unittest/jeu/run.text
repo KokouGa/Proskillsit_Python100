@@ -1,0 +1,16 @@
+# Dans le dossier mon_jeu/
+
+# Exécuter tous les tests
+pytest
+
+# Exécuter avec plus de détails
+pytest -v
+
+# Exécuter uniquement les tests sur les balles
+pytest -k "balle"
+
+# Exécuter uniquement les tests sur les collisions
+pytest -k "collision"
+
+# Voir la couverture de code
+pytest --cov=jeu

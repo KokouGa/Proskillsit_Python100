@@ -12,6 +12,7 @@ label.pack()
 # Ajouter un bouton
 def on_click():
     print("Bouton cliqué !")
+    exit()  # Ferme l'application après le clic
 
 button = tk.Button(root, text="Cliquez-moi", command=on_click)
 button.pack()
